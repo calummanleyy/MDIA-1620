@@ -12,4 +12,4 @@ THIS IS --> *BOLD* :D
 >2. cmd in the start.
 ---------
 >1 word how im feeling:
-> *GOOD*
+> *GOOD* 
