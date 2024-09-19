@@ -12,5 +12,5 @@ THIS IS --> *BOLD* :D
 ---------
 >1 word how im feeling:
 > *GOOD*
->
+> *GREAT EVEN*
 ![download](https://github.com/user-attachments/assets/35d9577a-6293-4abb-9cfd-4dfd45bc8cd8)
