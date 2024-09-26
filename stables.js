@@ -21,4 +21,4 @@ console.log(rentIntroduction)
 
 //let stableIntroduction =" Welcome to " + horseName + "'s stable :D "
 let stableIntroduction = `Welcome to ${horseName}'s stable :D`
-console.log(stableIntroduction)
+//console.log(stableIntroduction)
