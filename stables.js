@@ -2,11 +2,12 @@ console.log("horses are BAD")
 let horseName = "Coolfella"; //this is a string
 horseName = "gamer"; //this name takes over because of placement
 let horseAge = 5; //numbers dont need quotes but always use double quotes otherwise
-console.log(horseName); // logs earliest horse name ^^
+console.log(horseName);
 console.log(horseAge);
 let isHorseInStable = true; //boolean!!
 console.log(isHorseInStable);
 isHorseInStable = true;
+
 horseName = "bangie bang the horsey"; //this horse name overwrites others but is its own
 console.log(horseName);
 const STABLE_MONTHLY_FEE = 10;
@@ -33,4 +34,3 @@ console.log(horseNicknameIntro)
 let discount = (STABLE_MONTHLY_FEE *3 - 3)
 let discountMessage = `Save 10 percent off THREE whole months which adds up to a total of ${discount} smackaroons.` 
 console.log(discountMessage)
-
