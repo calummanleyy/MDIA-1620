@@ -32,3 +32,5 @@ const totalAfterDiscount = totalForThreeMonths - discount; // Total after discou
 
 let totalMessage = `The total after applying the 10 percent discount for THREE whole months is ${totalAfterDiscount} smackaroons.`;
 console.log(totalMessage);
+
+console.log (isHorseInStable)
