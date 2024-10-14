@@ -2,16 +2,10 @@
 Calum Manley's mdia1620 codez
 -----------------
 THIS IS --> *BOLD* :D
->3 aha moments:
->1. using terminal to copy paste the code.
->2. using git commands (commit, push).
->3. order of console.logs.
----------
->2 unclear things:
->1. finding desktop in terminal on pc was annoying.
->2. start of using git commands, tons of errors
----------
->1 word how im feeling:
-> 1*never been better*
+>3 confusing things:
+>1. If/how to edit code included in a merge request. 
+>2. Getting the correct file selected in the terminal without using "open with Terminal", the "dir" stuff is unclear to me.
+>3. Which team to bet on to get everyone livin comfortably.  
+-----------------
 ![image](https://github.com/user-attachments/assets/872ff623-047f-4509-bfc3-defe21664b02)
 
